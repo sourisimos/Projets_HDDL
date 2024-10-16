@@ -10,11 +10,15 @@ Le Git du mini projet de HDDL
 ### P1 - Art Challenge 
 ...
 
+
 ### P2 - CVAE
-...
+A faire : 
+* Explication mathématique des CVAE, et des différences avec les VAE (loss fonction utilisée, différences dans la structure du réseau, ...)
+
 
 ### P3 - SSL-anomaly
 ...
+
 
 ### P4 - RNN
 ...
