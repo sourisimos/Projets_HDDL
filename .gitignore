@@ -7,3 +7,6 @@ P3_SSL_anomaly/data_png/
 *.log
 *.tmp
 
+P3_SSL_anomaly/grid_search_results_classic_models.csv
+P3_SSL_anomaly/grid_search_results_RESNET_models.csv
+P3_SSL_anomaly/grid_search_results_UNET_models.csv
